@@ -1,5 +1,4 @@
 # Application info like the name and description is stored here
-# More info on the ASI syntax will be available soon
 
 -0,Discord Bot Maker,Ever wanted to create Discord bots? Now you can! With this program you can easily create Discord bots using command templates.
 -EXECUTABLE,0,discordbotmaker,()
