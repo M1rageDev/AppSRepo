@@ -1,0 +1,13 @@
+# Application info like the name and description is stored here
+# WARNING! This is not the build info. This is only used for debugging. This file stores source code info.
+#
+Discord Bot Maker
+Ever wanted to make Discord bots? Now you can! This program will allow you to create your own Discord bot.
+/NAPP/
+main.py
+
+[NEXT]
+Checksum
+Easy to use CLI app to get the checksum of a file.
+/NAPP/
+main.py
