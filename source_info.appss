@@ -4,11 +4,11 @@
 DiscordBotMaker
 Ever wanted to make Discord bots? Now you can! This program will allow you to create your own Discord bot.
 /NAPP/
-python
+python3
 {'main.py'}
 [NEXT]
 Checksum
 Easy to use CLI app to get the checksum of a file.
 /NAPP/
-python
+python3
 {'main.py'}
